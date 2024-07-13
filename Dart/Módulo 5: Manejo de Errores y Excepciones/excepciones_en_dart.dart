@@ -1,4 +1,8 @@
 //Lanzamiento y captura de excepciones
+/*
+Una excepción es un evento que ocurre durante la ejecución de un programa y que interrumpe el flujo normal del programa.
+*/
+
 void main() {
   try {
     int resultado = 10 ~/ 0; // División por cero
